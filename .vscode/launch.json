@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ep01_app_bar",
+            "cwd": "ep01_app_bar",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ep02_food_emoji",
+            "cwd": "ep02_food_emoji",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ep03_shop_app",
+            "cwd": "ep03_shop_app",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
